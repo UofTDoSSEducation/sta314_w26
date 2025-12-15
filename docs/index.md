@@ -106,20 +106,20 @@ This is a preliminary schedule; it may change throughout the term.
 
 | Week | Dates	| Lecture Topic	| Lecture Slides	| Suggested Readings |
 | --- | --- | --- | --- | --- | 
-| 1 | Mon, Jan 5 | Course logistics <br /> Introduction to Statistical Learning  <br /> The bias-variance tradeoff |  [[Lec00.pdf](/lectures/lec00.pdf)],[[Lec01.pdf](/lectures/lec01.pdf)]  | ISL 1, 2.1 - 2.3   |
-|  | Wed, Jan 7 | Course logistics <br /> Introduction to Statistical Learning  <br /> The bias-variance tradeoff |  [[Lec00.pdf](/lectures/lec00.pdf)],[[Lec01.pdf](/lectures/lec01.pdf)]  | ISL 1, 2.1 - 2.3   |
-| 2 | Mon, Jan 12 | Linear regression | [[Lec02.pdf](/lectures/lec02.pdf)] |   [[Linear algebra & Probability](/tutorials/review_alg_prob.pdf)] <br />  ISL 3.1, 3.2, 3.3, 3.6 |
+| 1 | Mon, Jan 5 | Course logistics <br /> Introduction to Statistical Learning    |  [[Lec00.pdf](/lectures/lec00.pdf)],[[Lec01.pdf](/lectures/lec01.pdf)]  | ISL 1, 2.1 - 2.3   |
+| | Wed, Jan 7 |  Introduction to Statistical Learning  <br /> The bias-variance tradeoff <br /> Linear regression |  [[Lec01.pdf](/lectures/lec01.pdf)] [[Lec02.pdf](/lectures/lec02.pdf)] |  [[Linear algebra & Probability](/tutorials/review_alg_prob.pdf)] <br/> ISL 2.1 - 2.3, 3.1 -3.3, 3.6    |
+| 2 | Mon, Jan 12 |  Cross-validation <br /> Model selection under linear models | [[Lec03.pdf](/lectures/lec03.pdf)] | ISL 5.1, 6.1.1,  6.1.2, 6.1.3 <br /> ESL 7.10 |
 | |  | Tutorial 1 (linear regression) | [[Notes](/tutorials/tut01.pdf)], [[R code](/tutorials/tut01_coding.Rmd)], [[Python code](/tutorials/tut01_coding.ipynb)]   | ISL 3.6 |
-| | Wed, Jan 14 | Cross-validation <br /> Model selection under linear models | [[Lec03.pdf](/lectures/lec03.pdf)] | ISL 5.1, 6.1.1,  6.1.2, 6.1.3 <br /> ESL 7.10 |
-| 3 | Mon, Jan 19 | Shringkage regression |  [[Lec04.pdf](/lectures/lec04.pdf)]  | ISL 6.2, 6.4 <br /> ESL 7.10  |
+| | Wed, Jan 14 |Shringkage regression |  [[Lec04.pdf](/lectures/lec04.pdf)]  | ISL 6.2, 6.4 <br /> ESL 7.10  |
+| 3 | Mon, Jan 19 |  Move beyond linearity |  [[Lec05.pdf](/lectures/lec05.pdf)] | ISL 7.1-7.4, 7.6, 7.7  |
 | | | Tutorial 2 (cv, subset selection) | [[Notes](/tutorials/tut02.pdf)], [[R code](/tutorials/tut02_coding.Rmd)], [[Python code](/tutorials/tut02_coding.ipynb)] | ISL 5.3.1-5.3.3, 6.5.1 |
-| | Wed, Jan 21 | Move beyond linearity |  [[Lec05.pdf](/lectures/lec05.pdf)] | ISL 7.1-7.4, 7.6, 7.7  |
-| 4 | Mon, Jan 26 | Introduction to classification | [[Lec06.pdf](/lectures/lec06.pdf)]  | ISL 4.1, 4.2  |
+| | Wed, Jan 21 |Introduction to classification | [[Lec06.pdf](/lectures/lec06.pdf)]  | ISL 4.1, 4.2  |
+| 4 | Mon, Jan 26 | Logistic regression  | [[Lec07.pdf](/lectures/lec-LR-binary.pdf)]  | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4   |
 | | | Tutorial 3 (Shrinkage regression) |   [[Notes](/tutorials/tut03.pdf)],  [[R code](/tutorials/tut03_coding.Rmd)], [[Python code](/tutorials/tut03_coding.ipynb)]  | ISL 6.5.2 | 
 | | Wed, Jan 28 | | |
 | 5 | Mon, Feb 2 | No class |   |  |
 | | | Tutorial 4 (Move beyond linearity) |  [[R code](/tutorials/tut04_coding.Rmd)], [[Python code](/tutorials/tut04_coding.ipynb)] | ISL 7.8 |
-| | Wed, Feb 4  |Logistic regression  | [[Lec07.pdf](/lectures/lec-LR-binary.pdf)]  | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4   |
+| | Wed, Feb 4  |
 |  6 | Mon, Feb 9  | Gradient descent   | [[Lec08-GD.pdf](/lectures/lec-GD.pdf)] |   PRML 4.1, 4.3 <br />  ConvOpt 2.1-2.3, 3.1, 3.2, 4.1, 4.2 <!--[[Multivariate calculus](/tutorials/review_multi_calculus.pdf)]--> |
 | | | Tutorial 5 (Problem set 3, LR) | [[Notes](/tutorials/tut05.pdf)],  [[R code](/tutorials/tut05_coding.Rmd)], [[Python code](/tutorials/tut05_coding.ipynb)] | ISL 4.7 |
 | | Wed, Feb 11 |  **Midterm** | | |
