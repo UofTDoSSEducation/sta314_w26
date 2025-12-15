@@ -116,11 +116,11 @@ This is a preliminary schedule; it may change throughout the term.
 | | Wed, Jan 21 |
 | 4 | Mon, Jan 26 | Introduction to classification | [[Lec06.pdf](/lectures/lec06.pdf)]  | ISL 4.1, 4.2  |
 | | | Tutorial 3 (Shrinkage regression) |   [[Notes](/tutorials/tut03.pdf)],  [[R code](/tutorials/tut03_coding.Rmd)], [[Python code](/tutorials/tut03_coding.ipynb)]  | ISL 6.5.2 | 
-| | Wed, Jan 28 | Logistic regression  | [[Lec07.pdf](/lectures/lec-LR-binary.pdf)]  | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4   |
-| 5 | Mon, Feb 2 | No class |   |  |
+| | Wed, Jan 28 | Logistic regression <br /> Gradient descent  | [[Lec07.pdf](/lectures/lec-LR-binary.pdf)] [[Lec08-GD.pdf](/lectures/lec-GD.pdf)] | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 <br/> PRML 4.1, 4.3 <br />  ConvOpt 2.1-2.3, 3.1, 3.2, 4.1, 4.2 <!--[[Multivariate calculus](/tutorials/review_multi_calculus.pdf)]--> |  |
+| 5 | Mon, Feb 2 |  |   |  |
 | | | Tutorial 4 (Move beyond linearity) |  [[R code](/tutorials/tut04_coding.Rmd)], [[Python code](/tutorials/tut04_coding.ipynb)] | ISL 7.8 |
 | | Wed, Feb 4  |
-|  6 | Mon, Feb 9  | Gradient descent   | [[Lec08-GD.pdf](/lectures/lec-GD.pdf)] |   PRML 4.1, 4.3 <br />  ConvOpt 2.1-2.3, 3.1, 3.2, 4.1, 4.2 <!--[[Multivariate calculus](/tutorials/review_multi_calculus.pdf)]--> |
+|  6 | Mon, Feb 9  |   |  |   
 | | | Tutorial 5 (Problem set 3, LR) | [[Notes](/tutorials/tut05.pdf)],  [[R code](/tutorials/tut05_coding.Rmd)], [[Python code](/tutorials/tut05_coding.ipynb)] | ISL 4.7 |
 | | Wed, Feb 11 |  **Midterm** | | |
 | 7 | Mon, Feb 23 | Thanksgiving, no class / tutorial | |
