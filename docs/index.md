@@ -43,10 +43,10 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 | Section | TA  | OH | OH mode |  
 | --- | --- | --- | --- |  
-| LEC0101 | Haochen Song | Tue (5pm-6pm) | [Zoom link](https://utoronto.zoom.us/j/81683760499) |  
-|  | Xiaochuan Shi | Mon (5pm-6pm) | [Zoom link](https://utoronto.zoom.us/j/82036868816) |  
-|  | Jorge Arturo Esquivel Fuente  | Tue (11am-12am) | [Zoom link](https://utoronto.zoom.us/j/84836574590) | 
-|	 | Junhao Zhu |	Fri (9am-10am) | in-person, SS621 |   
+| LEC0101 | Haochen Song | Tue (5pm-6pm) | TBA <!-- [Zoom link](https://utoronto.zoom.us/j/82036868816) --> |  
+|  | Xiaochuan Shi | Mon (5pm-6pm) | TBA <!-- [Zoom link](https://utoronto.zoom.us/j/82036868816) --> |  
+|  | Morris Greenberg  | Tue (11am-12am) | TBA | 
+|	 | Junhao Zhu |	Fri (9am-10am) | TBA |   
 
 ### Lectures 
 
