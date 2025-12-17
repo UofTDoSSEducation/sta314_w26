@@ -134,7 +134,7 @@ This is a preliminary schedule; it may change throughout the term.
 | 10 | Mon, Mar 16 |  Neural network |[[Lec13.pdf](/lectures/lec13.pdf)] | ISL 10, ESL 11 |  
 | | Wed, Mar 18 | Neural network |[[Lec13.pdf](/lectures/lec13.pdf)] | ISL 10, ESL 11 | 
 | 11 | Mon, Mar 23 |  Neural network |[[Lec13.pdf](/lectures/lec13.pdf)] | ISL 10, ESL 11 | 
-| | Wed, Mar 25 |  Unsupervised learning: clustering  | [[Lec15.pdf](/lectures/lec15.pdf)] | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 | 
+| | Wed, Mar 25 |  Clustering  | [[Lec15.pdf](/lectures/lec15.pdf)] | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 | 
 | 12 | Mon, Mar 30  |  PCA | [[Lec15.pdf](/lectures/lec15.pdf)] | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 |  
 | | Wed, Apr 1 |Proj presentation | || 
 
