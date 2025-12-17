@@ -43,16 +43,16 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 | Section | TA  | OH | OH mode |  
 | --- | --- | --- | --- |  
-| LEC0101 | Haochen Song | Tue (5pm-6pm) | TBA <!-- [Zoom link](https://utoronto.zoom.us/j/82036868816) --> |  
-|  | Xiaochuan Shi | Mon (5pm-6pm) | TBA <!-- [Zoom link](https://utoronto.zoom.us/j/82036868816) --> |  
-|  | Morris Greenberg  | Tue (11am-12am) | TBA | 
-|	 | Junhao Zhu |	Fri (9am-10am) | TBA |   
+| LEC0101 | Haochen Song | TBA | TBA <!-- [Zoom link](https://utoronto.zoom.us/j/82036868816) --> |  
+|  | Xiaochuan Shi | TBA | TBA <!-- [Zoom link](https://utoronto.zoom.us/j/82036868816) --> |  
+|  | Morris Greenberg  | TBA | TBA | 
+|	 | Groﬀ William  |	TBA <!--Fri (9am-10am)--> | TBA |   
 
 ### Lectures 
 
 | Section	| Time	| Location | 
 | --- | --- | --- |
-| LEC0101	| Mon (10am-11am), Wed (11am-1pm) | MP103 | 
+| LEC0101	| Mon (3-4pm), Wed (11am-1pm) | PB161 | 
 
 ### Tutorials 
 
@@ -60,8 +60,8 @@ We will cover popular statistical methods for supervised and unsupervised learni
 |--- | --- | --- | --- | --- |
 | LEC0101 | 101 | Mon, 11am-12pm | HA403 | Haochen  |
 | | 102 |  |  HS106 |  Xiaochuan |
-| | 103 |  |   MS3278  | Arturo |
-| | 104 |  |  MS4279 | Junhao |
+| | 103 |  |   MS3278  | Morris |
+| | 104 |  |  MS4279 | Groﬀ |
  
 ---
 
@@ -73,9 +73,9 @@ We will cover popular statistical methods for supervised and unsupervised learni
 |  | Date | Time & Location |  Credit | Content | Solution |
 |---|---|---|---|---| --- |
 | Quizzes | NA | During tutorials | 5% | | | 
-| Midterm | Sep 25 | LEC0101: 11am-1pm, EX100   <br> LEC0201: 3pm-5pm, EX100  | 25% | Weeks 1-4 | <!--[[sol-101.pdf](/tests/midterm1-101-sol.pdf)] <br> [[sol-201.pdf](/tests/midterm1-201-sol.pdf)]-->  |
-| Final  | TBA | TBA |   25% | Weeks 1-12 | |
-| Course project | Sep 26, 11:59pm  |  Group sign-up: by Nov 8, 11:59pm, Quercus <br /> Prediction submission: by Dec 6, 11:59pm, Kaggle <br /> Report due: Dec 8, 11:59pm, Quercus | 20% | [[Documentation](https://q.utoronto.ca/courses/354759/files/33406865?wrap=1)] <br> [[Report outline](https://q.utoronto.ca/courses/354759/files/34537849?wrap=1)] | |
+| Midterm | Feb 11 | 3-5pm;  EM 119, PB B250, VC 206, VC 215 | 35% | Weeks 1-5 | <!--[[sol-101.pdf](/tests/midterm1-101-sol.pdf)] <br> [[sol-201.pdf](/tests/midterm1-201-sol.pdf)]-->  |
+| Final  | TBA | TBA |   35% | Weeks 1-10 | |
+| Course project | Jan 12/19, 11:59pm  |  Group sign-up: by Feb 20, 11:59pm, Quercus <br /> Kaggle submission: by Mar 20, 11:59pm  <br /> Report due: Mar 22, 11:59pm, Quercus | 25% | [[Documentation](https://q.utoronto.ca/courses/354759/files/33406865?wrap=1)] <br> [[Report outline](https://q.utoronto.ca/courses/354759/files/34537849?wrap=1)] | |
 
 <!--| [Homework 3](/hws/hw3/hw3.pdf) | Nov 2, 12 AM | Nov 19, 11:59 PM | 10% | Lec06-08 | [[Q1-Q3.pdf](/hws/hw3/hw3_solution_Q1_Q3.pdf)],[[Q4-Q5.pdf](/hws/hw3/hw3_solution_Q4Q5.pdf)] |
 | [Homework 4](/hws/hw4/hw4.pdf) | Nov 16, 12 AM | Nov 29, 11:59 PM  | 10% | Lec06-10 | [[sol-derivation](/hws/hw4/hw4_solution_derivation.pdf)], [[sol-coding](/hws/hw4/hw4_solution_coding.pdf)]  |-->
