@@ -126,7 +126,7 @@ This is a preliminary schedule; it may change throughout the term.
 | 7 | Mon, Feb 23 |  Discriminant analysis   |  [[Lec09-DA.pdf](/lectures/lec-DA.pdf)] | ISL 4.3-4.4   |
 | | |  Tutorial 6 (Review on DA) | [[Notes](/tutorials/tut07.pdf)], [[R code](/tutorials/tut-DA.Rmd)] | ISL 8.3, 9.6 |  
 | | Wed, Feb 25 |   Discriminant analysis <br/> Support vector machine |     [[Lec10-SVM.pdf](/lectures/lec-svm.pdf)] |      ESL 4.3-4.4  <br > [[Dual formulation and kernel trick](/tutorials/reading-svm.pdf)] |
-| 8 | Mon, Mar 2  |  Decision tree  |  [[Lec11-DT.pdf](/lectures/lec-DT.pdf)] | ISL 8.1 <br > ESL 9.2 | 
+| 8 | Mon, Mar 2  |  Support vector machine  |  [[Lec10-SVM.pdf](/lectures/lec-svm.pdf)] | ESL 4.3-4.4  <br > [[Dual formulation and kernel trick](/tutorials/reading-svm.pdf)] |
 |  |  |  Tutorial 7 (Review on SVM) | [[Notes](/tutorials/tut08.pdf)] | ISL 9  <br > ESL 12.1-12.3 |
 | | Wed, Mar 4 |  Decision tree    | [[Lec11-DT.pdf](/lectures/lec-DT.pdf)] |   ISL 8.1 <br > ESL 9.2 |
 | 9 | Mon, Mar 9 |  Bootstrap, Bagging  |[[Lec12-ET.pdf](/lectures/lec-ET.pdf)] |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
