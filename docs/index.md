@@ -30,14 +30,14 @@ We will cover popular statistical methods for supervised and unsupervised learni
   - Elements of Statistical Learning (ESL).
   - Pattern Recognition and Machine Learning (PRML).
   - Convex Optimization by Boyd and Vandenberghe (ConvOpt).
-- Piazza: [sign-up link](https://piazza.com/utoronto.ca/fall2024/sta314).
-- [Syllabus](/lectures/syllabus.pdf).
+- Piazza: [sign-up link](https://piazza.com/utoronto.ca/winter2026/sta314).
+- Syllabus <!--[Syllabus](/lectures/syllabus.pdf)-->.
 
 ### Staff
 
 | Instructor | email |  office |  office hours (OH) |  OH mode | 
 | --- | --- | --- |  --- | --- |
-| [Xin Bing](https://www.statistics.utoronto.ca/people/directories/all-faculty/xin-bing) |  [xin.bing@utoronto.ca](mailto:xin.bing@utoronto.ca) | UY 9192 | TBA  |  [Zoom link](https://utoronto.zoom.us/j/81581102645)  | 
+| [Xin Bing](https://www.statistics.utoronto.ca/people/directories/all-faculty/xin-bing) |  [xin.bing@utoronto.ca](mailto:xin.bing@utoronto.ca) | UY 9192 | TBA  |  <!--[Zoom link](https://utoronto.zoom.us/j/81581102645) --> | 
 
 ### TAs
 
