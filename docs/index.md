@@ -58,7 +58,7 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 | Section | Session | Time | Location | TA | 
 |--- | --- | --- | --- | --- |
-| LEC0101 | 101 | Mon, 4-5pm | HA403 | Haochen  |
+| LEC0101 | 101 | Mon (4-5pm) | HA403 | Haochen  |
 | | 102 |  |  HS106 |  Xiaochuan |
 | | 103 |  |   MS3278  | Morris |
 | | 104 |  |  MS4279 | Groﬀ |
