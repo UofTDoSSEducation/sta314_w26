@@ -128,7 +128,7 @@ This is a preliminary schedule; it may change throughout the term.
 | | Wed, Feb 25 |   Discriminant analysis <br/> Support vector machine |     [[Lec10-SVM.pdf](/lectures/lec-svm.pdf)] |      ESL 4.3-4.4  <br > [[Dual formulation and kernel trick](/tutorials/reading-svm.pdf)] |
 | 8 | Mon, Mar 2  |  Support vector machine  |  [[Lec10-SVM.pdf](/lectures/lec-svm.pdf)] | ESL 4.3-4.4  <br > [[Dual formulation and kernel trick](/tutorials/reading-svm.pdf)] |
 |  |  |  Tutorial 7 (Review on SVM) | [[Notes](/tutorials/tut08.pdf)] | ISL 9  <br > ESL 12.1-12.3 |
-| | Wed, Mar 4 |  Decision tree    | [[Lec11-DT.pdf](/lectures/lec-DT.pdf)] |   ISL 8.1 <br > ESL 9.2 |
+| | Wed, Mar 4 |  k-nearest neighbour <br/> Decision tree    | [[Lec11-DT.pdf](/lectures/lec-DT.pdf)] |   ISL 8.1 <br > ESL 9.2 |
 | 9 | Mon, Mar 9 |  Bootstrap, Bagging  |[[Lec12-ET.pdf](/lectures/lec-ET.pdf)] |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
 | | Wed, Mar 11 |  Random forest, Boosting |[[Lec12-ET.pdf](/lectures/lec-ET.pdf)] |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
 | 10 | Mon, Mar 16 |  Neural network |[[Lec13.pdf](/lectures/lec13.pdf)] | ISL 10, ESL 11 |  
