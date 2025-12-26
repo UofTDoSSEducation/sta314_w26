@@ -88,7 +88,7 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 | | File | Solution |
 |---|---|---|
-|Problem set 1| <!-- [[Problem set 1](/practical_sets/set1.pdf)] --> | <!-- [[Sol:Q1-Q4](/practical_sets/set1_sol_Q1-Q4.pdf)], [[Sol:Q5](/practical_sets/set1_sol_Q5.pdf)]--> |
+|Problem set 1|  [[Problem set 1](/practical_sets/set1.pdf)]  |  [[Sol:Q1-Q4](/practical_sets/set1_sol_Q1-Q4.pdf)], [[Sol:Q5](/practical_sets/set1_sol_Q5.pdf)]  |
 |Problem set 2| <!-- [[Problem set 2](/practical_sets/set2.pdf)] --> | <!-- [[Sol:Q1](/practical_sets/set2_sol_Q1.pdf)], [[Sol:Q2-Q4](/practical_sets/set2_sol_Q2-Q4.pdf)]-->  |
 |Midterm 23Fall | <!--  [[Midterm 23Fall](/practical_sets/midterm23fall.pdf)] --> |  |
 |Problem set 3|  <!--  [[Problem set 3](/practical_sets/set3.pdf)] --> | <!--  [[Sol:Q1-Q3](/practical_sets/set3_sol_Q1-Q3.pdf)], [[Sol:Q4Q5](/practical_sets/set3_sol_Q4Q5.pdf)] --> |
@@ -131,13 +131,13 @@ This is a preliminary schedule; it may change throughout the term.
 | 9 | Mon, Mar 9 |  Bootstrap, Bagging  |  <!--  [[Lec12-ET.pdf](/lectures/lec-ET.pdf)] --> |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
 | | Wed, Mar 11 |  Random forest, Boosting |  <!-- [[Lec12-ET.pdf](/lectures/lec-ET.pdf)]--> |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
 | 10 | Mon, Mar 16 |  Neural network | <!--[[Lec13.pdf](/lectures/lec13.pdf)]--> | ISL 10, ESL 11 |   
-| | | Tutorial 7 (Tree-based algorithms) | | 
+| | | Tutorial 7 (Tree-based algorithms) | | |
 | | Wed, Mar 18 | Neural network |  | ISL 10, ESL 11 | 
 | 11 | Mon, Mar 23 |  Neural network |   | ISL 10, ESL 11 | 
-| | | Tutorial 8 (Neural nets) | | 
+| | | Tutorial 8 (Neural nets) | | |
 | | Wed, Mar 25 |  Clustering  | <!--[[Lec-km.pdf](/lectures/lec-km.pdf)]--> | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 | 
 | 12 | Mon, Mar 30  |  PCA | <!-- [[Lec-pca.pdf](/lectures/lec-pca.pdf)]--> | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 |  
-| | Wed, Apr 1 |Proj presentation | || 
+| | Wed, Apr 1 | Proj presentation | | | 
 
 <!-- 
 | | Wed, Nov 27 | Unsupervised learning <br /> K-means clustering and PCA | [[Lec15.pdf](/lectures/lec15.pdf)] | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 | 
