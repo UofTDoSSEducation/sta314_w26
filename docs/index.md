@@ -124,16 +124,18 @@ This is a preliminary schedule; it may change throughout the term.
 | | | Tutorial 5 (MLE and GD) | [[Notes](/tutorials/tut06_note.pdf)] | |
 | | Wed, Feb 11 |  **Midterm** | | |
 | 7 | Mon, Feb 23 |  Discriminant analysis   |  [[Lec09-DA.pdf](/lectures/lec-DA.pdf)] | ISL 4.3-4.4   |
-| | |  Tutorial 6 (Review on DA) | [[Notes](/tutorials/tut07.pdf)], [[R code](/tutorials/tut-DA.Rmd)] | ISL 8.3, 9.6 |  
+| | |   | | 
 | | Wed, Feb 25 |   Discriminant analysis <br/> Support vector machine |     [[Lec10-SVM.pdf](/lectures/lec-svm.pdf)] |      ESL 4.3-4.4 |
 | 8 | Mon, Mar 2  |  Support vector machine  |  [[Lec10-SVM.pdf](/lectures/lec-svm.pdf)] | ESL 4.3-4.4   |
-|  |  |  Tutorial 7 (Review on SVM) | [[Notes](/tutorials/tut08.pdf)] | ISL 9  <br > ESL 12.1-12.3 |
+|  |  |  Tutorial 6 (Review on DA) | [[Notes](/tutorials/tut07.pdf)], [[R code](/tutorials/tut-DA.Rmd)] | ISL 8.3, 9.6 |   <!-- Tutorial 7 (Review on SVM) | [[Notes](/tutorials/tut08.pdf)] | ISL 9  <br > ESL 12.1-12.3 |-->
 | | Wed, Mar 4 |  k-nearest neighbour <br/> Decision tree    | [[Lec11-DT.pdf](/lectures/lec-DT.pdf)] |   ISL 8.1 <br > ESL 9.2 |
 | 9 | Mon, Mar 9 |  Bootstrap, Bagging  |[[Lec12-ET.pdf](/lectures/lec-ET.pdf)] |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
 | | Wed, Mar 11 |  Random forest, Boosting |[[Lec12-ET.pdf](/lectures/lec-ET.pdf)] |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
-| 10 | Mon, Mar 16 |  Neural network |[[Lec13.pdf](/lectures/lec13.pdf)] | ISL 10, ESL 11 |  
+| 10 | Mon, Mar 16 |  Neural network |[[Lec13.pdf](/lectures/lec13.pdf)] | ISL 10, ESL 11 |   
+| | | Tutorial 7 (Tree-based algorithms) | | 
 | | Wed, Mar 18 | Neural network |[[Lec13.pdf](/lectures/lec13.pdf)] | ISL 10, ESL 11 | 
 | 11 | Mon, Mar 23 |  Neural network |[[Lec13.pdf](/lectures/lec13.pdf)] | ISL 10, ESL 11 | 
+| | | Tutorial 8 (Neural nets) | | 
 | | Wed, Mar 25 |  Clustering  | [[Lec15.pdf](/lectures/lec15.pdf)] | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 | 
 | 12 | Mon, Mar 30  |  PCA | [[Lec15.pdf](/lectures/lec15.pdf)] | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 |  
 | | Wed, Apr 1 |Proj presentation | || 
