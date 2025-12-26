@@ -106,9 +106,9 @@ This is a preliminary schedule; it may change throughout the term.
 
 | Week | Dates	| Lecture Topic	| Lecture Slides	| Suggested Readings |
 | --- | --- | --- | --- | --- | 
-| 1 | Mon, Jan 5 | Course logistics <br /> Intro to Machine Learning    |  [[Lec00.pdf](/lectures/lec00.pdf)],[[Lec01.pdf](/lectures/lec01.pdf)]  | ISL 1   |
-| | Wed, Jan 7 |  Intro to Statistical Learning  <br /> The bias-variance tradeoff  |  [[Lec01.pdf](/lectures/lec01.pdf)]  |  [[Linear algebra & Probability](/tutorials/review_alg_prob.pdf)] <br/> ISL 2.1-2.3    |
-| 2 | Mon, Jan 12 |   Linear regression  | [[Lec02.pdf](/lectures/lec02.pdf)] |  ISL  3.1-3.3, 3.6    |
+| 1 | Mon, Jan 5 | Course logistics <br /> Intro to Machine Learning    |  [[Lec00.pdf](/lectures/lec-logistics.pdf)]   | ISL 1   |
+| | Wed, Jan 7 |  Intro to Statistical Learning  <br /> The bias-variance tradeoff  |  [[Lec01.pdf](/lectures/lec-BVT.pdf)]  |  [[Linear algebra & Probability](/tutorials/review_alg_prob.pdf)] <br/> ISL 2.1-2.3    |
+| 2 | Mon, Jan 12 |   Linear regression  | [[Lec02.pdf](/lectures/lec-LR.pdf)] |  ISL  3.1-3.3, 3.6    |
 | |  | Tutorial 1 (linear regression) | <!--  [[Notes](/tutorials/tut01.pdf)], [[R code](/tutorials/tut01_coding.Rmd)], [[Python code](/tutorials/tut01_coding.ipynb)] -->  | ISL 3.6 |
 | | Wed, Jan 14 |  Cross-validation  <br/> Model selection under LMs | <!--  [[Lec03.pdf](/lectures/lec03.pdf)][[Lec04.pdf](/lectures/lec04.pdf)] --> | ISL 5.1, 6.1, 6.2, 6.4 <br /> ESL 7.10  |
 | 3 | Mon, Jan 19 |  Shringkage regression | <!--  [[Lec04.pdf](/lectures/lec04.pdf)] --> | ISL 6.1-6.4 <br /> ESL 7.10  |
