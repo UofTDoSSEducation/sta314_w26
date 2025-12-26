@@ -120,7 +120,7 @@ This is a preliminary schedule; it may change throughout the term.
 | 5 | Mon, Feb 2 |  Introduction to classification | [[Lec06.pdf](/lectures/lec06.pdf)]  | ISL 4.1, 4.2  |
 | | | Tutorial 4 (Beyond linearity) |  [[R code](/tutorials/tut04_coding.Rmd)], [[Python code](/tutorials/tut04_coding.ipynb)] | ISL 7.8 |
 | | Wed, Feb 4  |  Logistic regression   | [[Lec07.pdf](/lectures/lec-LR-binary.pdf)] | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 |  
-|  6 | Mon, Feb 9  | Multi-class logistic regression  |  [[Lec09-LR.pdf](/lectures/lec-LR-multi.pdf)] |  ISL 4.3-4.4 <br /> ESL 4.3-4.4 | .Rmd)], [[Python code](/tutorials/tut05_coding.ipynb)] | ISL 4.7 |
+|  6 | Mon, Feb 9  | Multi-class logistic regression  |  [[Lec09-LR.pdf](/lectures/lec-LR-multi.pdf)] |  ISL 4.3-4.4 <br /> ESL 4.3-4.4 | 
 | | | Tutorial 5 (MLE and GD) | [[Notes](/tutorials/tut06_note.pdf)] | |
 | | Wed, Feb 11 |  **Midterm** | | |
 | 7 | Mon, Feb 23 |  Discriminant analysis   |  [[Lec09-DA.pdf](/lectures/lec-DA.pdf)] | ISL 4.3-4.4   |
