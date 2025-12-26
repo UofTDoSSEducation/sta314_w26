@@ -113,7 +113,7 @@ This is a preliminary schedule; it may change throughout the term.
 | | Wed, Jan 14 |  Cross-validation  <br/> Model selection under LMs | <!--  [[Lec03.pdf](/lectures/lec03.pdf)][[Lec04.pdf](/lectures/lec04.pdf)] --> | ISL 5.1, 6.1, 6.2, 6.4 <br /> ESL 7.10  |
 | 3 | Mon, Jan 19 |  Shringkage regression | <!--  [[Lec04.pdf](/lectures/lec04.pdf)] --> | ISL 6.1-6.4 <br /> ESL 7.10  |
 | | | Tutorial 2 (Subset selection) | <!--  [[Notes](/tutorials/tut02.pdf)], [[R code](/tutorials/tut02_coding.Rmd)], [[Python code](/tutorials/tut02_coding.ipynb)] --> | ISL 5.3.1-5.3.3, 6.5.1 |
-| | Wed, Jan 21 | Shringkage regression <br/> Gradient descent  | <!--  [[Lec08-GD.pdf](/lectures/lec-GD.pdf)] --> | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 <br/> PRML 4.1, 4.3 <br />  ConvOpt 2.1-2.3, 3.1-3.2, 4.1-4.2 <!--[[Multivariate calculus](/tutorials/review_multi_calculus.pdf)]--> |  |
+| | Wed, Jan 21 | Shringkage regression <br/> Gradient descent  | <!--  [[Lec08-GD.pdf](/lectures/lec-GD.pdf)] --> | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 <br/> PRML 4.1, 4.3 <br />  ConvOpt 2.1-2.3, 3.1-3.2, 4.1-4.2 <!--[[Multivariate calculus](/tutorials/review_multi_calculus.pdf)]--> | 
 | 4 | Mon, Jan 26 | Gradient descent <br/> Move beyond linearity | <!--  [[Lec05.pdf](/lectures/lec05.pdf)] --> | ISL 7.1-7.4, 7.6, 7.7  |
 | | | Tutorial 3 (Shrinkage) |  <!--  [[Notes](/tutorials/tut03.pdf)],  [[R code](/tutorials/tut03_coding.Rmd)], [[Python code](/tutorials/tut03_coding.ipynb)] --> | ISL 6.5.2 | 
 | | Wed, Jan 28 | Move beyond linearity | <!--  [[Lec05.pdf](/lectures/lec05.pdf)] --> | ISL 7.1-7.4, 7.6, 7.7  |
