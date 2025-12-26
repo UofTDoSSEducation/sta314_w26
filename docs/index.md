@@ -110,7 +110,7 @@ This is a preliminary schedule; it may change throughout the term.
 | | Wed, Jan 7 |  Intro to Statistical Learning  <br /> The bias-variance tradeoff  |  [[Lec01.pdf](/lectures/lec-BVT.pdf)]  |  [[Linear algebra & Probability](/tutorials/review_alg_prob.pdf)] <br/> ISL 2.1-2.3    |
 | 2 | Mon, Jan 12 |   Linear regression  | [[Lec02.pdf](/lectures/lec-LR.pdf)] |  ISL  3.1-3.3, 3.6    |
 | |  | Tutorial 1 (linear regression) | <!--  [[Notes](/tutorials/tut01.pdf)], [[R code](/tutorials/tut01_coding.Rmd)], [[Python code](/tutorials/tut01_coding.ipynb)] -->  | ISL 3.6 |
-| | Wed, Jan 14 |  Cross-validation  <br/> Model selection under LMs | <!--  [[Lec03.pdf](/lectures/lec03.pdf)][[Lec04.pdf](/lectures/lec-cv.pdf)] --> | ISL 5.1, 6.1, 6.2, 6.4 <br /> ESL 7.10  |
+| | Wed, Jan 14 |  Cross-validation  <br/> Model selection under LMs | [[Lec03.pdf](/lectures/lec03.pdf)][[Lec04.pdf](/lectures/lec-cv.pdf)]  | ISL 5.1, 6.1, 6.2, 6.4 <br /> ESL 7.10  |
 | 3 | Mon, Jan 19 |  Shringkage regression | [[Lec04.pdf](/lectures/lec-SR.pdf)]  | ISL 6.1-6.4 <br /> ESL 7.10  |
 | | | Tutorial 2 (Subset selection) | <!--  [[Notes](/tutorials/tut02.pdf)], [[R code](/tutorials/tut02_coding.Rmd)], [[Python code](/tutorials/tut02_coding.ipynb)] --> | ISL 5.3.1-5.3.3, 6.5.1 |
 | | Wed, Jan 21 | Shringkage regression <br/> Gradient descent  |  [[Lec05.pdf](/lectures/lec-GD.pdf)]  | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 <br/> PRML 4.1, 4.3 <br />  ConvOpt 2.1-2.3, 3.1-3.2, 4.1-4.2 <!--[[Multivariate calculus](/tutorials/review_multi_calculus.pdf)]--> | 
