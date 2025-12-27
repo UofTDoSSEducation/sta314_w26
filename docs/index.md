@@ -52,16 +52,17 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 | Section	| Time	| Location | 
 | --- | --- | --- |
-| LEC0101	| Mon (3-4pm), Wed (3-5pm) | PB161 | 
+| LEC0101	| Mon (3-4pm)  | PB B150 | 
+| 	| Wed (3-4pm) ) | PB B250 | 
 
 ### Tutorials 
 
 | Section | Session | Time | Location | TA | 
 |--- | --- | --- | --- | --- |
-| LEC0101 | 101 | Mon (4-5pm) | HA403 | Haochen  |
-| | 102 |  |  HS106 |  Xiaochuan |
-| | 103 |  |   MS3278  | Morris |
-| | 104 |  |  MS4279 | Groﬀ |
+| LEC0101 | 101 | Mon (4-5pm) | MC | Haochen  |
+| | 102 |  |  MS  |  Xiaochuan |
+| | 103 |  |   MC  | Morris |
+| | 104 |  |  MS  | Groﬀ |
  
 ---
 
@@ -128,8 +129,8 @@ This is a preliminary schedule; it may change throughout the term.
 | 8 | Mon, Mar 2  |  Support vector machine  | <!--  [[Lec10-SVM.pdf](/lectures/lec-svm.pdf)] --> | ESL 4.3-4.4   |
 |  |  |  Tutorial 6 (Review on DA) | <!-- [[Notes](/tutorials/tut07.pdf)], [[R code](/tutorials/tut-DA.Rmd)]--> | ISL 8.3, 9.6 |  
 | | Wed, Mar 4 |  k-nearest neighbour <br/> Decision tree    | <!-- [[Lec11-DT.pdf](/lectures/lec-DT.pdf)] --> |   ISL 8.1 <br > ESL 9.2 |
-| 9 | Mon, Mar 9 |  Bootstrap, Bagging  |  <!--  [[Lec12-ET.pdf](/lectures/lec-ET.pdf)] --> |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
-| | Wed, Mar 11 |  Random forest, Boosting |  <!-- [[Lec12-ET.pdf](/lectures/lec-ET.pdf)]--> |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
+| 9 | Mon, Mar 9 |  Decision tree, Bootstrap  |  <!--  [[Lec12-ET.pdf](/lectures/lec-ET.pdf)] --> |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
+| | Wed, Mar 11 |  Bagging, Random forest, Boosting |  <!-- [[Lec12-ET.pdf](/lectures/lec-ET.pdf)]--> |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
 | 10 | Mon, Mar 16 |  Neural network | <!--[[Lec13.pdf](/lectures/lec13.pdf)]--> | ISL 10, ESL 11 |   
 | | | Tutorial 7 (Tree-based algorithms) | | |
 | | Wed, Mar 18 | Neural network |  | ISL 10, ESL 11 | 
