@@ -53,7 +53,7 @@ We will cover popular statistical methods for supervised and unsupervised learni
 | Section	| Time	| Location | 
 | --- | --- | --- |
 | LEC0101	| Mon (3-4pm)  | PB B150 | 
-| 	| Wed (3-4pm) ) | PB B250 | 
+| 	| Wed (3-4pm)  | PB B250 | 
 
 ### Tutorials 
 
