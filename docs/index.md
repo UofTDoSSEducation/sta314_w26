@@ -52,16 +52,17 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 | Section	| Time	| Location | 
 | --- | --- | --- |
-| LEC0101	| Mon (3-4pm), Wed (3-5pm) | PB161 | 
+| LEC0101	| Mon (3-4pm)  | PB B150 | 
+| 	| Wed (3-4pm) ) | PB B250 | 
 
 ### Tutorials 
 
 | Section | Session | Time | Location | TA | 
 |--- | --- | --- | --- | --- |
-| LEC0101 | 101 | Mon (4-5pm) | HA403 | Haochen  |
-| | 102 |  |  HS106 |  Xiaochuan |
-| | 103 |  |   MS3278  | Morris |
-| | 104 |  |  MS4279 | Groﬀ |
+| LEC0101 | 101 | Mon (4-5pm) | MC | Haochen  |
+| | 102 |  |  MS  |  Xiaochuan |
+| | 103 |  |   MC  | Morris |
+| | 104 |  |  MS  | Groﬀ |
  
 ---
 
