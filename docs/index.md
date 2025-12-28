@@ -37,7 +37,7 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 | Instructor | email |  office |  office hours (OH) |  OH mode | 
 | --- | --- | --- |  --- | --- |
-| [Xin Bing](https://www.statistics.utoronto.ca/people/directories/all-faculty/xin-bing) |  [xin.bing@utoronto.ca](mailto:xin.bing@utoronto.ca) | UY 9192 | TBA  |  <!--[Zoom link](https://utoronto.zoom.us/j/81581102645) --> | 
+| [Xin Bing](https://www.statistics.utoronto.ca/people/directories/all-faculty/xin-bing) |  [xin.bing@utoronto.ca](mailto:xin.bing@utoronto.ca) | UY 9192 | Wed (9-10am)  |  Zoom <!--[Zoom link](https://utoronto.zoom.us/j/81581102645) --> | 
 
 ### TAs
 
@@ -53,7 +53,7 @@ We will cover popular statistical methods for supervised and unsupervised learni
 | Section	| Time	| Location | 
 | --- | --- | --- |
 | LEC0101	| Mon (3-4pm)  | PB B150 | 
-| 	| Wed (3-4pm)  | PB B250 | 
+| 	| Wed (3-5pm)  | PB B250 | 
 
 ### Tutorials 
 
