@@ -115,18 +115,18 @@ This is a preliminary schedule; it may change throughout the term.
 | | | Tutorial 2 (Subset selection) | <!--  [[Notes](/tutorials/tut02.pdf)], [[R code](/tutorials/tut02_coding.Rmd)], [[Python code](/tutorials/tut02_coding.ipynb)] --> | ISL 5.3.1-5.3.3, 6.5.1 |
 | | Wed, Jan 21 | Shringkage regression <br/> Gradient descent  |  [[Lec-GD.pdf](/lectures/lec-GD.pdf)]  | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 <br/> PRML 4.1, 4.3 <br />  ConvOpt 2.1-2.3, 3.1-3.2, 4.1-4.2 <!--[[Multivariate calculus](/tutorials/review_multi_calculus.pdf)]--> | 
 | 4 | Mon, Jan 26 | Gradient descent <br/> Move beyond linearity | <!--  [[Lec05.pdf](/lectures/lec05.pdf)] --> | ISL 7.1-7.4, 7.6, 7.7  |
-| | | Tutorial 3 (Shrinkage) |  <!--  [[Notes](/tutorials/tut03.pdf)],  [[R code](/tutorials/tut03_coding.Rmd)], [[Python code](/tutorials/tut03_coding.ipynb)] --> | ISL 6.5.2 | 
+| | | Tutorial 3 (Shrinkage and GD) |  <!--  [[Notes](/tutorials/tut03.pdf)],  [[R code](/tutorials/tut03_coding.Rmd)], [[Python code](/tutorials/tut03_coding.ipynb)] --> | ISL 6.5.2 | 
 | | Wed, Jan 28 | Move beyond linearity | <!--  [[Lec05.pdf](/lectures/lec05.pdf)] --> | ISL 7.1-7.4, 7.6, 7.7  |
 | 5 | Mon, Feb 2 |  Introduction to classification | <!--  [[Lec06.pdf](/lectures/lec06.pdf)] --> | ISL 4.1, 4.2  |
 | | | Tutorial 4 (Beyond linearity) | <!--  [[R code](/tutorials/tut04_coding.Rmd)], [[Python code](/tutorials/tut04_coding.ipynb)] --> | ISL 7.8 |
 | | Wed, Feb 4  |  Logistic regression   | <!-- [[Lec07.pdf](/lectures/lec-LR-binary.pdf)] --> | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 |  
 |  6 | Mon, Feb 9  | Multi-class logistic regression  | <!--  [[Lec09-LR.pdf](/lectures/lec-LR-multi.pdf)] --> |  ISL 4.3-4.4 <br /> ESL 4.3-4.4 | 
-| | | Tutorial 5 (MLE and GD) | <!--  [[Notes](/tutorials/tut06_note.pdf)]  --> | |
+| | | Tutorial 5 (MLE and LR) | <!--  [[Notes](/tutorials/tut06_note.pdf)]  --> | |
 | | Wed, Feb 11 |  **Midterm** | | |
 | 7 | Mon, Feb 23 |  Discriminant analysis   | <!--  [[Lec09-DA.pdf](/lectures/lec-DA.pdf)] --> | ISL 4.3-4.4   |
 | | Wed, Feb 25 |   Discriminant analysis <br/> Support vector machine |   <!--   [[Lec10-SVM.pdf](/lectures/lec-svm.pdf)] --> |      ESL 4.3-4.4 |
 | 8 | Mon, Mar 2  |  Support vector machine  | <!--  [[Lec10-SVM.pdf](/lectures/lec-svm.pdf)] --> | ESL 4.3-4.4   |
-|  |  |  Tutorial 6 (Review on DA) | <!-- [[Notes](/tutorials/tut07.pdf)], [[R code](/tutorials/tut-DA.Rmd)]--> | ISL 8.3, 9.6 |  
+|  |  |  Tutorial 6 (DA and SVM) | <!-- [[Notes](/tutorials/tut07.pdf)], [[R code](/tutorials/tut-DA.Rmd)]--> | ISL 8.3, 9.6 |  
 | | Wed, Mar 4 |  k-nearest neighbour <br/> Decision tree    | <!-- [[Lec11-DT.pdf](/lectures/lec-DT.pdf)] --> |   ISL 8.1 <br > ESL 9.2 |
 | 9 | Mon, Mar 9 |  Decision tree, Bootstrap  |  <!--  [[Lec12-ET.pdf](/lectures/lec-ET.pdf)] --> |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
 | | Wed, Mar 11 |  Bagging, Random forest, Boosting |  <!-- [[Lec12-ET.pdf](/lectures/lec-ET.pdf)]--> |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)], <br> [[R code on tree-based algorithms](/tutorials/tut-DT-ET.Rmd)] | 
