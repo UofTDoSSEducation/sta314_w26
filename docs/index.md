@@ -48,23 +48,16 @@ We will cover popular statistical methods for supervised and unsupervised learni
 |  | Morris Greenberg  | TBA | TBA | 
 |	 | Groﬀ William  |	TBA <!--Fri (9am-10am)--> | TBA |   
 
-### Lectures 
+### Lectures + tutorials
 
 | Section	| Time	| Location | 
 | --- | --- | --- |
 | LEC0101	| Mon (3-4pm)  | PB B150 | 
 | 	| Wed (3-5pm)  | PB B250 | 
-
-### Tutorials 
-
-| Section | Session | Time | Location | TA | 
-|--- | --- | --- | --- | --- |
-| LEC0101 | 101 | Mon (4-5pm) | MC |   |
-| | 102 |  |  MS  |   |
-| | 103 + 104 |  |   MC  |  | 
+| TUT101 | Mon (4-5pm) | MC | 
+| TUT102 | Mon (4-5pm) | MS | 
+| TUT103 + TUT104 | Mon (4-5pm) | MC | 
  
----
-
 <br />
 
 
