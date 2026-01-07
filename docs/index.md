@@ -117,7 +117,7 @@ This is a preliminary schedule; it may change throughout the term.
 | 4 | Mon, Jan 26 | Gradient descent <br/> Move beyond linearity | [[Lec-GD.pdf](/lectures/lec-GD.pdf)]  <br/>  [[Lec-NLR.pdf](/lectures/lec-NLR.pdf)]  | ISL 7.1-7.4, 7.6, 7.7  |
 | | | Tutorial 3 (Shrinkage and GD) |  <!--  [[Notes](/tutorials/tut03.pdf)],  [[R code](/tutorials/tut03_coding.Rmd)], [[Python code](/tutorials/tut03_coding.ipynb)] --> | ISL 6.5.2 | 
 | | Wed, Jan 28 | Move beyond linearity |   [[Lec-NLR.pdf](/lectures/lec-NLR.pdf)]  | ISL 7.1-7.4, 7.6, 7.7  |
-| 5 | Mon, Feb 2 |  Introduction to classification | <!--  [[Lec06.pdf](/lectures/lec06.pdf)] --> | ISL 4.1, 4.2  |
+| 5 | Mon, Feb 2 |  Introduction to classification |  [[Lec-classification.pdf](/lectures/lec-classification.pdf)]   | ISL 4.1, 4.2  |
 | | | Tutorial 4 (Beyond linearity) | <!--  [[R code](/tutorials/tut04_coding.Rmd)], [[Python code](/tutorials/tut04_coding.ipynb)] --> | ISL 7.8 |
 | | Wed, Feb 4  |  Logistic regression   | <!-- [[Lec07.pdf](/lectures/lec-LR-binary.pdf)] --> | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 |  
 |  6 | Mon, Feb 9  | Multi-class logistic regression  | <!--  [[Lec09-LR.pdf](/lectures/lec-LR-multi.pdf)] --> |  ISL 4.3-4.4 <br /> ESL 4.3-4.4 | 
