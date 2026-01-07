@@ -63,15 +63,12 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 ## Grading scheme
 
-|  | Date | Time & Location |  Credit | Content | Solution |
-|---|---|---|---|---| --- |
-| Quizzes | NA | During tutorials | 5% | | | 
-| Midterm | Feb 11 | 3-5pm;  EM 119, PB B250, VC 206, VC 215 | 35% | Weeks 1-5 | <!--[[sol-101.pdf](/tests/midterm1-101-sol.pdf)] <br> [[sol-201.pdf](/tests/midterm1-201-sol.pdf)]-->  |
+|  | Date | Time & Location |  Credit | Content | 
+|---|---|---|---|---|  
+| Quizzes | NA | During tutorials | 5% |  | 
+| Midterm | Feb 11 | 3-5pm;  EM 119, PB B250, VC 206, VC 215 | 35% | Weeks 1-5 |  
 | Final  | TBA | TBA |   35% | Weeks 1-10 | |
-| Project | Jan 19 |  Group sign-up: by Feb 2, 11:59pm, poll form <br /> Kaggle competition: start on Feb 2, 11:59pm, due on Mar 20, 11:59pm  <br /> Report due: Mar 22, 11:59pm, Quercus | 25% | <!-- [[Documentation](https://q.utoronto.ca/courses/354759/files/33406865?wrap=1)]--> <!-- <br> [[Report outline](https://q.utoronto.ca/courses/354759/files/34537849?wrap=1)] --> | |
-
-<!--| [Homework 3](/hws/hw3/hw3.pdf) | Nov 2, 12 AM | Nov 19, 11:59 PM | 10% | Lec06-08 | [[Q1-Q3.pdf](/hws/hw3/hw3_solution_Q1_Q3.pdf)],[[Q4-Q5.pdf](/hws/hw3/hw3_solution_Q4Q5.pdf)] |
-| [Homework 4](/hws/hw4/hw4.pdf) | Nov 16, 12 AM | Nov 29, 11:59 PM  | 10% | Lec06-10 | [[sol-derivation](/hws/hw4/hw4_solution_derivation.pdf)], [[sol-coding](/hws/hw4/hw4_solution_coding.pdf)]  |-->
+| Project | Jan 19 |  Group sign-up: by Feb 2, 11:59pm, poll form <br /> Kaggle competition: start on Feb 2, 11:59pm, due on Mar 20, 11:59pm  <br /> Report due: Mar 22, 11:59pm, Quercus | 25% | <!-- [[Documentation](https://q.utoronto.ca/courses/354759/files/33406865?wrap=1)]--> <!-- <br> [[Report outline](https://q.utoronto.ca/courses/354759/files/34537849?wrap=1)] --> | 
 
 ---
 
