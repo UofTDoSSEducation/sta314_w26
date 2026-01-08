@@ -56,7 +56,7 @@ We will cover popular statistical methods for supervised and unsupervised learni
 | 	| Wed (3-5pm)  | PB B250 | 
 | TUT101 | Mon (4-5pm) | MC | 
 | TUT102 | Mon (4-5pm) | MS | 
-| TUT103 + TUT104 | Mon (4-5pm) | MC | 
+| TUT103 + TUT104 | Mon (4-5pm) | MC 252 | 
  
 <br />
 
