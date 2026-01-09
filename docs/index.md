@@ -46,7 +46,7 @@ We will cover popular statistical methods for supervised and unsupervised learni
 | LEC0101 | Haochen Song | TBA | TBA <!-- [Zoom link](https://utoronto.zoom.us/j/82036868816) --> |  
 |  | Xiaochuan Shi | TBA | TBA <!-- [Zoom link](https://utoronto.zoom.us/j/82036868816) --> |  
 |  | Morris Greenberg  | TBA | TBA | 
-|	 | Groﬀ William  |	TBA <!--Fri (9am-10am)--> | TBA |   
+|	 |  William Groﬀ |	TBA <!--Fri (9am-10am)--> | TBA |   
 
 ### Lectures + tutorials
 
