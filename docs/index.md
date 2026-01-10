@@ -43,10 +43,10 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 | Section | TA  | OH | OH mode |  
 | --- | --- | --- | --- |  
-| LEC0101 | Haochen Song | TBA | TBA <!-- [Zoom link](https://utoronto.zoom.us/j/82036868816) --> |  
-|  | Xiaochuan Shi | TBA | TBA <!-- [Zoom link](https://utoronto.zoom.us/j/82036868816) --> |  
-|  | Morris Greenberg  | TBA | TBA | 
-|	 |  William Groﬀ |	TBA <!--Fri (9am-10am)--> | TBA |   
+| LEC0101 | Haochen Song | Tue (9-10am) | SS 621 |  
+|  | Xiaochuan Shi | Mon (1-2pm) | [Zoom link](https://utoronto.zoom.us/j/9259028822) |  
+|  | Morris Greenberg  | Fri (10-11am) | SS 621 | 
+|	 |  William Groﬀ |	Thu (10-11am) | SS 621 |   
 
 ### Lectures + tutorials
 
