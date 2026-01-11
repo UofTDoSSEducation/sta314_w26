@@ -15,6 +15,7 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 ## Annoucement
 
+- The first tutorial is on Jan 12th. Only attend the session that you registered. Tut103 and Tut104 are merged and take place in MC 252.
 - The first lecture is on Jan 5th.
   
 ---
