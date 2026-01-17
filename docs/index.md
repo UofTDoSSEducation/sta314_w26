@@ -110,7 +110,7 @@ This is a preliminary schedule; it may change throughout the term.
 | | Wed, Jan 28 | Move beyond linearity |   [[Lec-NLR.pdf](/lectures/lec-NLR.pdf)]  | ISL 7.1-7.4, 7.6, 7.7  |
 | 5 | Mon, Feb 2 |  Introduction to classification |  [[Lec-classification.pdf](/lectures/lec-classification.pdf)]   | ISL 4.1, 4.2  |
 | | | Tutorial 4 (Beyond linearity) | <!--  [[R code](/tutorials/tut04_coding.Rmd)], [[Python code](/tutorials/tut04_coding.ipynb)] --> | ISL 7.8 |
-| | Wed, Feb 4  |  Logistic regression   | <!-- [[Lec07.pdf](/lectures/lec-LR-binary.pdf)] --> | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 |  
+| | Wed, Feb 4  |  Logistic regression   |  [[Lec07.pdf](/lectures/lec-LR-binary.pdf)]  | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 |  
 |  6 | Mon, Feb 9  | no-class (for review) | | |
 | | | Tutorial 5 (MLE and LR) | <!--  [[Notes](/tutorials/tut06_note.pdf)]  --> | |
 | | Wed, Feb 11 |  **Midterm** | | |
