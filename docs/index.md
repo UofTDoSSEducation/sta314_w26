@@ -114,7 +114,7 @@ This is a preliminary schedule; it may change throughout the term.
 |  6 | Mon, Feb 9  | no-class (for review) | | |
 | | | Tutorial 5 (MLE and LR) | <!--  [[Notes](/tutorials/tut06_note.pdf)]  --> | |
 | | Wed, Feb 11 |  **Midterm** | | |
-| 7 | Mon, Feb 23 |  Multi-class logistic regression  | <!--  [[Lec09-LR.pdf](/lectures/lec-LR-multi.pdf)] --> |  ISL 4.3-4.4 <br /> ESL 4.3-4.4 |  
+| 7 | Mon, Feb 23 |  Multi-class logistic regression  |  [[Lec-LR-multi.pdf](/lectures/lec-LR-multi.pdf)]  |  ISL 4.3-4.4 <br /> ESL 4.3-4.4 |  
 | | Wed, Feb 25 |   Discriminant analysis   |     <!--  [[Lec09-DA.pdf](/lectures/lec-DA.pdf)] -->  |      ESL 4.3-4.4 |
 | 8 | Mon, Mar 2  |  Support vector machine  | <!--  [[Lec10-SVM.pdf](/lectures/lec-svm.pdf)] --> | ESL 4.3-4.4   |
 |  |  |  Tutorial 6 (DA and SVM) | <!-- [[Notes](/tutorials/tut07.pdf)], [[R code](/tutorials/tut-DA.Rmd)]--> | ISL 8.3, 9.6 |  
