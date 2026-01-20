@@ -69,7 +69,7 @@ We will cover popular statistical methods for supervised and unsupervised learni
 | Quizzes | NA | During tutorials | 5% |  | 
 | Midterm | Feb 11 | 3-5pm;  EM 119, PB B250, VC 206, VC 215 | 35% | Weeks 1-5 |  
 | Final  | TBA | TBA |   35% | Weeks 1-10 | |
-| Project | Jan 19 |  Group sign-up: by Feb 2, 11:59pm, poll form <br /> Kaggle competition: start on Feb 2, 11:59pm, due on Mar 20, 11:59pm  <br /> Report due: Mar 22, 11:59pm, Quercus | 25% |  [[Project Doc](/lectures/Project.pdf)]  <!-- <br> [[Report outline](https://q.utoronto.ca/courses/354759/files/34537849?wrap=1)] --> | 
+| Project | Jan 19 |  Group sign-up: by Feb 2, 11:59pm, poll form + Quercus <br /> Kaggle competition: start on Feb 2, 11:59pm, due on Mar 20, 11:59pm  <br /> Report due: Mar 22, 11:59pm, Quercus | 25% |  [[Project Doc](/lectures/Project.pdf)]  <!-- <br> [[Report outline](https://q.utoronto.ca/courses/354759/files/34537849?wrap=1)] --> | 
 
 ---
 
