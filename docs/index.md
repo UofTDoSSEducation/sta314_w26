@@ -38,7 +38,7 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 | Instructor | email |  office |  office hours (OH) |  OH mode | 
 | --- | --- | --- |  --- | --- |
-|  Xin Bing  |   xin.bing@utoronto.ca  | UY 9192 | Wed (9-10am)  |  Zoom <!--[Zoom link](https://utoronto.zoom.us/j/81581102645) --> | 
+|  Xin Bing  |   xin.bing@utoronto.ca  | UY 9192 | Wed (9-10am)  |   [Zoom link](https://utoronto.zoom.us/j/87809497342) | 
 
 ### TAs
 
