@@ -106,7 +106,7 @@ This is a preliminary schedule; it may change throughout the term.
 | | | Tutorial 2 (Subset selection) | [[Note](/tutorials/tut02.pdf)], [[code-ipynb](/tutorials/tut02_coding_prev.ipynb)] | ISL 5.3.1-5.3.3, 6.5.1 |
 | | Wed, Jan 21 | Shringkage regression <br/> Gradient descent  | [[Lec-SR.pdf](/lectures/lec-SR.pdf)] <br/> [[Lec-GD.pdf](/lectures/lec-GD.pdf)]  | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 <br/> PRML 4.1, 4.3 <br />  ConvOpt 2.1-2.3, 3.1-3.2, 4.1-4.2 <!--[[Multivariate calculus](/tutorials/review_multi_calculus.pdf)]--> | 
 | 4 | Mon, Jan 26 | Gradient descent  | [[Lec-GD.pdf](/lectures/lec-GD.pdf)]   | ISL 7.1-7.4, 7.6, 7.7  |
-| | | Tutorial 3 (Shrinkage and GD) |  <!--  [[Notes](/tutorials/tut03.pdf)],  [[R code](/tutorials/tut03_coding.Rmd)], [[Python code](/tutorials/tut03_coding.ipynb)] --> | ISL 6.5.2 | 
+| | | Tutorial 3 (Shrinkage and GD) |  [[code-ipynb](/tutorials/tut03_coding_prev.ipynb)] | ISL 6.5.2 | 
 | | Wed, Jan 28 | Move beyond linearity |   [[Lec-NLR.pdf](/lectures/lec-NLR.pdf)]  | ISL 7.1-7.4, 7.6, 7.7  |
 | 5 | Mon, Feb 2 |  Introduction to classification |  [[Lec-classification.pdf](/lectures/lec-classification.pdf)]   | ISL 4.1, 4.2  |
 | | | Tutorial 4 (Beyond linearity) | <!--  [[R code](/tutorials/tut04_coding.Rmd)], [[Python code](/tutorials/tut04_coding.ipynb)] --> | ISL 7.8 |
