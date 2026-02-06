@@ -98,24 +98,24 @@ This is a preliminary schedule; it may change throughout the term.
 
 | Week | Dates	| Lecture Topic	| Lecture Slides	| Suggested Readings |
 | --- | --- | --- | --- | --- | 
-| 1 | Mon, Jan 5 | Course logistics <br /> Intro to Machine Learning    |  [[Lec-logis.pdf](/lectures/lec-logistics.pdf)]   | ISL 1   |
-| | Wed, Jan 7 |  Intro to Statistical Learning  <br /> The bias-variance tradeoff  |  [[Lec-BVT.pdf](/lectures/lec-BVT.pdf)]  |  [[Linear algebra & Probability](/tutorials/review_alg_prob.pdf)] <br/> ISL 2.1-2.3    |
-| 2 | Mon, Jan 12 |   Linear regression  | [[Lec-LR.pdf](/lectures/lec-LR.pdf)] |  ISL  3.1-3.3, 3.6    |
+| 1 | Mon, Jan 5 | Course logistics <br /> Intro to Machine Learning    |  [[Lec-logis](/lectures/lec-logistics.pdf)]   | ISL 1   |
+| | Wed, Jan 7 |  Intro to Statistical Learning  <br /> The bias-variance tradeoff  |  [[Lec-BVT](/lectures/lec-BVT.pdf)]  |  [[Linear algebra & Probability](/tutorials/review_alg_prob.pdf)] <br/> ISL 2.1-2.3    |
+| 2 | Mon, Jan 12 |   Linear regression  | [[Lec-LR](/lectures/lec-LR.pdf)] |  ISL  3.1-3.3, 3.6    |
 | |  | Tutorial 1 (linear regression) | [[Note](/tutorials/tut01.pdf)], [[code-ipynb](/tutorials/tut01_coding_prev.ipynb)]  | ISL 3.6 |
-| | Wed, Jan 14 |  Cross-validation  <br/> Model selection under LMs | [[Lec-CV.pdf](/lectures/lec-cv.pdf)]  <br/> [[Lec-CV-annotated.pdf](/lectures/lec-cv-annotated.pdf)]  | ISL 5.1, 6.1, 6.2, 6.4 <br /> ESL 7.10  |
-| 3 | Mon, Jan 19 |  Shringkage regression | [[Lec-SR.pdf](/lectures/lec-SR.pdf)]  | ISL 6.1-6.4 <br /> ESL 7.10  |
+| | Wed, Jan 14 |  Cross-validation  <br/> Model selection under LMs | [[Lec-CV](/lectures/lec-cv.pdf)]  <br/> [[Lec-CV-annotated](/lectures/lec-cv-annotated.pdf)]  | ISL 5.1, 6.1, 6.2, 6.4 <br /> ESL 7.10  |
+| 3 | Mon, Jan 19 |  Shringkage regression | [[Lec-SR](/lectures/lec-SR.pdf)]  | ISL 6.1-6.4 <br /> ESL 7.10  |
 | | | Tutorial 2 (Subset selection) | [[Note](/tutorials/tut02.pdf)], [[code-ipynb](/tutorials/tut02_coding_prev.ipynb)] | ISL 5.3.1-5.3.3, 6.5.1 |
-| | Wed, Jan 21 | Shringkage regression <br/> Gradient descent  | [[Lec-SR.pdf](/lectures/lec-SR.pdf)] <br/> [[Lec-GD.pdf](/lectures/lec-GD.pdf)]  | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 <br/> PRML 4.1, 4.3 <br />  ConvOpt 2.1-2.3, 3.1-3.2, 4.1-4.2 <!--[[Multivariate calculus](/tutorials/review_multi_calculus.pdf)]--> | 
+| | Wed, Jan 21 | Shringkage regression <br/> Gradient descent  | [[Lec-SR](/lectures/lec-SR.pdf)] <br/> [[Lec-GD](/lectures/lec-GD.pdf)]  | ISL 4.3, 4.4 <br /> ESL 4.3, 4.4 <br/> PRML 4.1, 4.3 <br />  ConvOpt 2.1-2.3, 3.1-3.2, 4.1-4.2 <!--[[Multivariate calculus](/tutorials/review_multi_calculus.pdf)]--> | 
 | 4 | Mon, Jan 26 | no-class (campus closed)  |   |   |
 | | | Tutorial 3 (Shrinkage and GD) |  [[code-ipynb](/tutorials/tut03_coding_prev.ipynb)] | ISL 6.5.2 | 
-| | Wed, Jan 28 | Gradient Descent <br> Move beyond linearity |    [[Lec-GD-annotated.pdf](/lectures/lec-GD-annotated.pdf)] <br/> [[Lec-NLR.pdf](/lectures/lec-NLR.pdf)]  | ISL 7.1-7.4, 7.6, 7.7  |
-| 5 | Mon, Feb 2 |  Move beyond linearity | [[Lec-NLR.pdf](/lectures/lec-NLR.pdf)]  | ISL 7.1-7.4, 7.6, 7.7 |
+| | Wed, Jan 28 | Gradient Descent <br> Move beyond linearity |    [[Lec-GD-annotated](/lectures/lec-GD-annotated.pdf)] <br/> [[Lec-NLR](/lectures/lec-NLR.pdf)]  | ISL 7.1-7.4, 7.6, 7.7  |
+| 5 | Mon, Feb 2 |  Move beyond linearity | [[Lec-NLR](/lectures/lec-NLR.pdf)]  | ISL 7.1-7.4, 7.6, 7.7 |
 | | | Tutorial 4 (Beyond linearity) | [[code-ipynb](/tutorials/tut04_coding_prev.ipynb)] | ISL 7.8 |
-| | Wed, Feb 4  |  Introduction to classification <br/> Logistic regression   |  [[Lec-cf.pdf](/lectures/lec-classification.pdf)]  <br> [[Lec-cf-annotated.pdf](/lectures/lec-classification-annotated.pdf)]  <br> [[Lec-LR-binary.pdf](/lectures/lec-LR-binary.pdf)]  | ISL 4.1 - 4.4 <br /> ESL 4.3, 4.4 |  
+| | Wed, Feb 4  |  Introduction to classification <br/> Logistic regression   |  [[Lec-cf](/lectures/lec-classification.pdf)]  <br> [[Lec-cf-annotated](/lectures/lec-classification-annotated.pdf)]  <br> [[Lec-LR-binary](/lectures/lec-LR-binary.pdf)]  | ISL 4.1 - 4.4 <br /> ESL 4.3, 4.4 |  
 |  6 | Mon, Feb 9  | no-class (for review) | | |
 | | | Tutorial 5 (MLE and review) | [[Note](/tutorials/tut05.pdf)]| |
 | | Wed, Feb 11 |  **Midterm** | | |
-| 7 | Mon, Feb 23 |  Multi-class logistic regression  |  [[Lec-LR-multi.pdf](/lectures/lec-LR-multi.pdf)]  |  ISL 4.3-4.4 <br /> ESL 4.3-4.4 |  
+| 7 | Mon, Feb 23 |  Multi-class logistic regression  |  [[Lec-LR-multi](/lectures/lec-LR-multi.pdf)]  |  ISL 4.3-4.4 <br /> ESL 4.3-4.4 |  
 | | Wed, Feb 25 |   Discriminant analysis   |     <!--  [[Lec09-DA.pdf](/lectures/lec-DA.pdf)] -->  |      ESL 4.3-4.4 |
 | 8 | Mon, Mar 2  |  Support vector machine  | <!--  [[Lec10-SVM.pdf](/lectures/lec-svm.pdf)] --> | ESL 4.3-4.4   |
 |  |  |  Tutorial 6 (DA and SVM) | <!-- [[Notes](/tutorials/tut07.pdf)], [[R code](/tutorials/tut-DA.Rmd)]--> | ISL 8.3, 9.6 |  
