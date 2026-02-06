@@ -111,7 +111,7 @@ This is a preliminary schedule; it may change throughout the term.
 | | Wed, Jan 28 | Gradient Descent <br> Move beyond linearity |    [[Lec-GD-annotated](/lectures/lec-GD-annotated.pdf)] <br/> [[Lec-NLR](/lectures/lec-NLR.pdf)]  | ISL 7.1-7.4, 7.6, 7.7  |
 | 5 | Mon, Feb 2 |  Move beyond linearity | [[Lec-NLR](/lectures/lec-NLR.pdf)]  | ISL 7.1-7.4, 7.6, 7.7 |
 | | | Tutorial 4 (Beyond linearity) | [[code-ipynb](/tutorials/tut04_coding_prev.ipynb)] | ISL 7.8 |
-| | Wed, Feb 4  |  Introduction to classification <br/> Logistic regression   |  [[Lec-cf](/lectures/lec-classification.pdf)]  <br> [[Lec-cf-annotated](/lectures/lec-classification-annotated.pdf)]  <br> [[Lec-LR-binary](/lectures/lec-LR-binary.pdf)]  | ISL 4.1 - 4.4 <br /> ESL 4.3, 4.4 |  
+| | Wed, Feb 4  |  Introduction to classification <br/> Logistic regression   |  [[Lec-cf](/lectures/lec-classification.pdf)]  <br> [[Lec-cf-annotated](/lectures/lec-classification-annotated.pdf)]  <br> [[Lec-LR-binary](/lectures/lec-LR-binary.pdf)]  <br>  [[Lec-LR-binary-annotated](/lectures/lec-LR-binary-annotated.pdf)] | ISL 4.1 - 4.4 <br /> ESL 4.3, 4.4 |  
 |  6 | Mon, Feb 9  | no-class (for review) | | |
 | | | Tutorial 5 (MLE and review) | [[Note](/tutorials/tut05.pdf)]| |
 | | Wed, Feb 11 |  **Midterm** | | |
