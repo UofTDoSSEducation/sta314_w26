@@ -15,6 +15,7 @@ We will cover popular statistical methods for supervised and unsupervised learni
 
 ## Annoucement
 
+- There is no tutorial on the Monday of Feb 23rd. 
 - Sign-up of the project group ends on Feb 2nd. Remember to sign yourselves up both via the sign-up form (indicate your choice of the data set) and on Quercus!  
 - The first tutorial is on Jan 12th. Only attend the session that you registered. Tut103 and Tut104 are merged and take place in MC 252.
 - The first lecture is on Jan 5th.
