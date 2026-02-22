@@ -121,8 +121,8 @@ This is a preliminary schedule; it may change throughout the term.
 |  |  |  Tutorial 6 (LR + DA) | <!-- [[Notes](/tutorials/tut07.pdf)], [[R code](/tutorials/tut-DA.Rmd)]--> | ISL 8.3, 9.6 |  
 | | Wed, Mar 4 |  Support vector machine  <br/> k-nearest neighbour     | <!-- [[Lec11-DT.pdf](/lectures/lec-DT.pdf)] --> |   ISL 8.1 <br > ESL 9.2 |
 | 9 | Mon, Mar 9 |  Decision tree  |  <!--  [[Lec12-ET.pdf](/lectures/lec-ET.pdf)] --> |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15   | 
-| | Wed, Mar 11 |  Decision tree <br/> Bootstrap, Bagging |  <!-- [[Lec12-ET.pdf](/lectures/lec-ET.pdf)]--> |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 | 
-| 10 | Mon, Mar 16 |   Random forest, Boosting | <!--[[Lec13.pdf](/lectures/lec13.pdf)]--> | ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)] | 
+| | Wed, Mar 11 |  Decision tree, bootstrap |  <!-- [[Lec12-ET.pdf](/lectures/lec-ET.pdf)]--> |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 | 
+| 10 | Mon, Mar 16 |   Bagging, random forest, boosting | <!--[[Lec13.pdf](/lectures/lec13.pdf)]--> | ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)] | 
 | | | Tutorial 7 (Tree-based algorithms) | | |
 | | Wed, Mar 18 | Neural network |  | ISL 10, ESL 11 | 
 | 11 | Mon, Mar 23 |  Neural network |   | ISL 10, ESL 11 | 
