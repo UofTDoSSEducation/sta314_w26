@@ -120,7 +120,7 @@ This is a preliminary schedule; it may change throughout the term.
 | | Wed, Feb 25 |   Discriminant analysis   |      [[Lec-DA.pdf](/lectures/lec-DA.pdf)]  <br> [[Lec-DA-annotated.pdf](/lectures/lec-DA-annotated.pdf)]   |      ESL 4.3-4.4 |
 | 8 | Mon, Mar 2  |  Support vector machine  | [[Lec-SVM.pdf](/lectures/lec-svm.pdf)]  | ISL 8.1 <br > ESL 9.2   |
 |  |  |  Tutorial 6 (LR + DA) |  [[code-ipynb](/tutorials/tut06_coding_prev.ipynb)] | ISL 4.6 |  
-| | Wed, Mar 4 |  Support vector machine  <br/> k-nearest neighbour     | <!-- [[Lec-knn.pdf](/lectures/lec-knn.pdf)] --> |   ISL 8.1 <br > ESL 9.2 |
+| | Wed, Mar 4 |  Support vector machine  <br/> k-nearest neighbour     |  [[Lec-knn.pdf](/lectures/lec-knn.pdf)] |   ISL 8.1 <br > ESL 9.2 |
 | 9 | Mon, Mar 9 |  Decision tree  |   [[Lec-DT.pdf](/lectures/lec-DT.pdf)]  |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15   | 
 | | Wed, Mar 11 |  Decision tree, bootstrap |  [[Lec-BS.pdf](/lectures/lec-BS.pdf)] |  ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 | 
 | 10 | Mon, Mar 16 |   Bagging, random forest, boosting | [[Lec-ET.pdf](/lectures/lec-ET.pdf)] | ISL 5.2, 5.3.4, 8.2 <br /> ESL 7.11, 8.7, 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)] | 
