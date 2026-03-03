@@ -116,8 +116,8 @@ This is a preliminary schedule; it may change throughout the term.
 |  6 | Mon, Feb 9  | no-class (for review) | | |
 | | | Tutorial 5 (MLE and review) | [[Note](/tutorials/tut05.pdf)]| |
 | | Wed, Feb 11 |  **Midterm** | | |
-| 7 | Mon, Feb 23 |  Multi-class logistic regression  |  [[Lec-LR-multi](/lectures/lec-LR-multi.pdf)]  |  ISL 4.3-4.4 <br /> ESL 4.3-4.4 |  
-| | Wed, Feb 25 |   Discriminant analysis   |      [[Lec-DA.pdf](/lectures/lec-DA.pdf)]  <br> [[Lec-DA-annotated.pdf](/lectures/lec-DA-annotated.pdf)]   |      ESL 4.3-4.4 |
+| 7 | Mon, Feb 23 |  Multi-class logistic regression  |  [[Lec-LR-multi](/lectures/lec-LR-multi.pdf)]  |  ISL 4.3.4 |  
+| | Wed, Feb 25 |   Discriminant analysis   |      [[Lec-DA.pdf](/lectures/lec-DA.pdf)]  <br> [[Lec-DA-annotated.pdf](/lectures/lec-DA-annotated.pdf)]   |   ISL 4.4,   ESL 4.3-4.4 |
 | 8 | Mon, Mar 2  |  Support vector machine  | [[Lec-SVM.pdf](/lectures/lec-svm.pdf)]  | ISL 9.1-9.4  |
 |  |  |  Tutorial 6 (LR + DA) |  [[code-ipynb](/tutorials/tut06_coding_prev.ipynb)] | ISL 4.6 |  
 | | Wed, Mar 4 |  Support vector machine  <br/> k-nearest neighbour     |  [[Lec-knn.pdf](/lectures/lec-knn.pdf)] |   ISL 4.6.5, 9.1-9.4 |
