@@ -119,8 +119,8 @@ This is a preliminary schedule; it may change throughout the term.
 | 7 | Mon, Feb 23 |  Multi-class logistic regression  |  [[Lec-LR-multi](/lectures/lec-LR-multi.pdf)]  |  ISL 4.3.4 |  
 | | Wed, Feb 25 |   Discriminant analysis   |      [[Lec-DA.pdf](/lectures/lec-DA.pdf)]  <br> [[Lec-DA-annotated.pdf](/lectures/lec-DA-annotated.pdf)]   |   ISL 4.4,   ESL 4.3-4.4 |
 | 8 | Mon, Mar 2  |  Support vector machine  | [[Lec-SVM.pdf](/lectures/lec-svm.pdf)]  | ISL 9.1-9.4  |
-|  |  |  Tutorial 6 (LR + DA) |  [[code-ipynb](/tutorials/tut06_coding_prev.ipynb)] <br>  [[Lec-SVM-annotated.pdf](/lectures/lec-svm-annotated.pdf)]  | ISL 4.6 |  
-| | Wed, Mar 4 |  Support vector machine  <br/> k-nearest neighbour     |  [[Lec-knn.pdf](/lectures/lec-knn.pdf)] |   ISL 4.6.5, 9.1-9.4 |
+|  |  |  Tutorial 6 (LR + DA) |  [[code-ipynb](/tutorials/tut06_coding_prev.ipynb)]    | ISL 4.6 |  
+| | Wed, Mar 4 |  Support vector machine  <br/> k-nearest neighbour     |  [[Lec-SVM-annotated.pdf](/lectures/lec-svm-annotated.pdf)] <br> [[Lec-knn.pdf](/lectures/lec-knn.pdf)] |   ISL 4.6.5, 9.1-9.4 |
 | 9 | Mon, Mar 9 |  Decision tree  |   [[Lec-DT.pdf](/lectures/lec-DT.pdf)]  |  ISL  8.1 <br /> ESL 9.2   | 
 | | Wed, Mar 11 |  Decision tree, bootstrap |  [[Lec-BS.pdf](/lectures/lec-BS.pdf)] |  ISL 5.2, 5.3.4, 8.1 <br /> ESL 7.11, 8.7, 9.2 | 
 | 10 | Mon, Mar 16 |   Bagging, random forest, boosting | [[Lec-ET.pdf](/lectures/lec-ET.pdf)] | ISL 8.2 <br /> ESL 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)] | 
