@@ -124,7 +124,7 @@ This is a preliminary schedule; it may change throughout the term.
 | 9 | Mon, Mar 9 |  Decision tree  |   [[Lec-DT.pdf](/lectures/lec-DT.pdf)]  |  ISL  8.1 <br /> ESL 9.2   | 
 | | Wed, Mar 11 |  Decision tree, bootstrap |  [[Lec-DT-annotated.pdf](/lectures/lec-DT-annotated.pdf)] <br> [[Lec-BS.pdf](/lectures/lec-BS.pdf)] |  ISL 5.2, 5.3.4, 8.1 <br /> ESL 7.11, 8.7, 9.2 | 
 | 10 | Mon, Mar 16 |   Bagging, random forest, boosting | [[Lec-ET.pdf](/lectures/lec-ET.pdf)] | ISL 8.2 <br /> ESL 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)] | 
-| | | Tutorial 7 (Tree-based algorithms) | | |
+| | | Tutorial 7 (Tree-based algorithms) | [[code-ipynb](/tutorials/tut07_coding_prev.ipynb)] |  ISL 8.3 |
 | | Wed, Mar 18 | Neural network |  | ISL 10, ESL 11 | 
 | 11 | Mon, Mar 23 |  Neural network |   | ISL 10, ESL 11 | 
 | | | Tutorial 8 (Neural nets) | | |
