@@ -85,8 +85,8 @@ We will cover popular statistical methods for supervised and unsupervised learni
 |Problem set 2|  [[Problem set 2](/practical_sets/set2.pdf)] |  [[Sol:Q1](/practical_sets/set2_sol_Q1.pdf)], [[Sol:Q2-Q4](/practical_sets/set2_sol_Q2-Q4.pdf)]   | Weeks 2-4 |
 |Problem set 3|  [[Problem set 3](/practical_sets/set3.pdf)]|  [[Sol:Q1-Q3](/practical_sets/set3_sol_Q1-Q3.pdf)], [[Sol:Q4Q5](/practical_sets/set3_sol_Q4Q5.pdf)] |  Weeks 4-6 |
 |Problem set 4|  [[Problem set 4](/practical_sets/set4.pdf)], [[Q2_starter.zip](/practical_sets/set4_Q2_starter.zip)],  [[Q3_starter.zip](/practical_sets/set4_Q3_starter.zip)] |  [[Sol-derivation](/practical_sets/set4_sol_derivation.pdf)], [[Sol-coding](/practical_sets/set4_sol_coding.pdf)]  | Weeks 5-7 | 
-|Past midterms|  [[22Fall](/practical_sets/midterm22fall.pdf)], [[23Fall](/practical_sets/midterm23fall.pdf)], [[24Fall](/practical_sets/midterm24fall.pdf)] |   |
-|Past finals| <!-- [[Final 23Fall](/practical_sets/final23fall.pdf)] --> | <!-- [[Final 23Fall_sol](/practical_sets/final23fall-sol.pdf)] --> |  | 
+|Past midterms|  [[22Fall](/practical_sets/midterm22fall.pdf)], [[23Fall](/practical_sets/midterm23fall.pdf)], [[24Fall-1](/practical_sets/midterm24fall.pdf)], [[24Fall-2](/practical_sets/midterm2-24fall.pdf)] |   |
+|Past finals|  [[22Fall](/practical_sets/final22fall.pdf)], [[23Fall](/practical_sets/final23fall.pdf)], [[24Fall](/practical_sets/final24fall.pdf)]  |  |  | 
 
 ---
 
@@ -125,12 +125,12 @@ This is a preliminary schedule; it may change throughout the term.
 | | Wed, Mar 11 |  Decision tree, bootstrap |  [[Lec-DT-annotated.pdf](/lectures/lec-DT-annotated.pdf)] <br> [[Lec-BS.pdf](/lectures/lec-BS.pdf)] |  ISL 5.2, 5.3.4, 8.1 <br /> ESL 7.11, 8.7, 9.2 | 
 | 10 | Mon, Mar 16 |   Bagging, random forest, boosting | [[Lec-ET.pdf](/lectures/lec-ET.pdf)] | ISL 8.2 <br /> ESL 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)] | 
 | | | Tutorial 7 (Tree-based algorithms) | [[code-ipynb](/tutorials/tut07_coding_prev.ipynb)] |  ISL 8.3 |
-| | Wed, Mar 18 | Neural network |  | ISL 10.1-10.7, ESL 11 | 
-| 11 | Mon, Mar 23 |  Neural network |   | ISL 10.1-10.7, ESL 11 | 
+| | Wed, Mar 18 | Neural network | [[Lec-NN.pdf](/lectures/lec-nn.pdf)] | ISL 10.1-10.7, ESL 11 | 
+| 11 | Mon, Mar 23 |  Neural network | [[Lec-NN.pdf](/lectures/lec-nn.pdf)]  | ISL 10.1-10.7, ESL 11 | 
 | | | Tutorial 8 (Neural nets) | | ISL 10.9 |
 | | Wed, Mar 25 |  Clustering  | <!--[[Lec-km.pdf](/lectures/lec-km.pdf)]--> | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 | 
 | 12 | Mon, Mar 30  |  PCA | <!-- [[Lec-pca.pdf](/lectures/lec-pca.pdf)]--> | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 |  
-| | Wed, Apr 1 | Proj presentation | | | 
+| | Wed, Apr 1 | Group presentation | | | 
 
 <!-- 
 | | Wed, Nov 27 | Unsupervised learning <br /> K-means clustering and PCA | [[Lec15.pdf](/lectures/lec15.pdf)] | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 | 
