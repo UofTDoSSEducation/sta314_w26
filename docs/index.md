@@ -130,7 +130,7 @@ This is a preliminary schedule; it may change throughout the term.
 | | | Tutorial 8 (Neural nets) | | ISL 10.9 |
 | | Wed, Mar 25 |  Clustering  | <!--[[Lec-km.pdf](/lectures/lec-km.pdf)]--> | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 | 
 | 12 | Mon, Mar 30  |  PCA | <!-- [[Lec-pca.pdf](/lectures/lec-pca.pdf)]--> | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 |  
-| | Wed, Apr 1 | Proj presentation | | | 
+| | Wed, Apr 1 | Group presentation | | | 
 
 <!-- 
 | | Wed, Nov 27 | Unsupervised learning <br /> K-means clustering and PCA | [[Lec15.pdf](/lectures/lec15.pdf)] | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 | 
