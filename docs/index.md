@@ -123,11 +123,11 @@ This is a preliminary schedule; it may change throughout the term.
 | | Wed, Mar 4 |  Support vector machine  <br/> k-nearest neighbour     |  [[Lec-SVM-annotated.pdf](/lectures/lec-svm-annotated.pdf)] <br> [[Lec-knn.pdf](/lectures/lec-knn.pdf)] |   ISL 4.6.5, 9.1-9.4 |
 | 9 | Mon, Mar 9 |  Decision tree  |   [[Lec-DT.pdf](/lectures/lec-DT.pdf)]  |  ISL  8.1 <br /> ESL 9.2   | 
 | | Wed, Mar 11 |  Decision tree, bootstrap |  [[Lec-DT-annotated.pdf](/lectures/lec-DT-annotated.pdf)] <br> [[Lec-BS.pdf](/lectures/lec-BS.pdf)] |  ISL 5.2, 5.3.4, 8.1 <br /> ESL 7.11, 8.7, 9.2 | 
-| 10 | Mon, Mar 16 |   Bagging, random forest, boosting | [[Lec-ET.pdf](/lectures/lec-ET.pdf)] | ISL 8.2 <br /> ESL 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)] | 
+| 10 | Mon, Mar 16 |   Bagging, random forest, boosting | [[Lec-ET.pdf](/lectures/lec-ET.pdf)] <br> [[Lec-ET-annotated.pdf](/lectures/lec-ET-annotated.pdf)] | ISL 8.2 <br /> ESL 10.1, 15 <br /> [[Gradient boosting machine](/tutorials/gradient_boosting_machine.pdf)] | 
 | | | Tutorial 7 (Tree-based algorithms) | [[code-ipynb](/tutorials/tut07_coding_prev.ipynb)] |  ISL 8.3 |
 | | Wed, Mar 18 | Neural network | [[Lec-NN.pdf](/lectures/lec-nn.pdf)] | ISL 10.1-10.7, ESL 11 | 
 | 11 | Mon, Mar 23 |  Neural network | [[Lec-NN.pdf](/lectures/lec-nn.pdf)]  | ISL 10.1-10.7, ESL 11 | 
-| | | Tutorial 8 (Neural nets) | | ISL 10.9 |
+| | | Tutorial 8 (Neural nets) | [[code-ipynb](/tutorials/tut08_coding_prev.ipynb)] | ISL 10.9 |
 | | Wed, Mar 25 |  Clustering  | <!--[[Lec-km.pdf](/lectures/lec-km.pdf)]--> | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 | 
 | 12 | Mon, Mar 30  |  PCA | <!-- [[Lec-pca.pdf](/lectures/lec-pca.pdf)]--> | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 |  
 | | Wed, Apr 1 | Group presentation | | | 
