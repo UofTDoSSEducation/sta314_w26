@@ -129,8 +129,8 @@ This is a preliminary schedule; it may change throughout the term.
 | 11 | Mon, Mar 23 | Training of neural networks | [[Lec-NN.pdf](/lectures/lec-nn.pdf)]  | ISL 10.1-10.7, ESL 11 | 
 | | | Tutorial 8 (Neural nets) | [[code-ipynb](/tutorials/tut08_coding_prev.ipynb)] | ISL 10.9 |
 | | Wed, Mar 25 |  Recurrent neural networks <br> Convolutional neural networks   |  [[Lec-NN-annotated.pdf](/lectures/lec-nn-annotated.pdf)]  | ISL 10.1-10.7, ESL 11  | 
-| 12 | Mon, Mar 30  |  Review + presentation | [[Project Doc](/lectures/project.pdf)]  <!--[[Lec-km.pdf](/lectures/lec-km.pdf)] --> | <!-- ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 --> |  
-| | Wed, Apr 1 | Presentations | [[Project Doc](/lectures/project.pdf)] |   | 
+| 12 | Mon, Mar 30  |  Review + presentation |   <!--[[Lec-km.pdf](/lectures/lec-km.pdf)] --> | [[Project Doc](/lectures/project.pdf)] <!-- ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 --> |  
+| | Wed, Apr 1 | Presentations |  |  [[Project Doc](/lectures/project.pdf)] | 
 
 <!-- 
 | | Wed, Nov 27 | Unsupervised learning <br /> K-means clustering and PCA | [[Lec15.pdf](/lectures/lec15.pdf)] | ISL 12.1 - 12.3 <br /> ESL 14.3 <br /> PRML 9.1 | 
